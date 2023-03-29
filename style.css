@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.heros{
+    background-image: url(img/water-7655314__340.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    
+}
+.lin{
+    font-size: 20px;
+    color: #CB0D0D;
+    font-weight: 700;
+
+}
+.line{
+    letter-spacing: 10px;
+    color: #FFFFFF;
+    font-size: 20px;
+
+}
+nav{
+    background-color: #490909;
+}
+.burger{
+    color: #FFFFFF;
+}
+.ecriture{
+    background-image: url(img/backgroun.png);
+}
+.element-3{
+    background-color: rgb(243, 215, 164);
+}
+.letter{
+    letter-spacing: 4px;
+}
+.footer{
+    background-image: url(img/footer.png);
+}
+
+
+.top{
+    display: inline-block;
+    z-index: 16px;
+    position: relative;
+    top: -20px;
+    background-color:  rgb(243, 215, 164);
+    /* text-align: start; */
+}
+
+.lam{
+    letter-spacing: 2px;
+}
+.position{
+    /* background-color: black; */
+}
